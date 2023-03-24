@@ -1,0 +1,32 @@
+---
+firestName: Alex
+lastName: Kryvosheyin
+middleName:
+age: 35
+address:
+  country: Ireland
+  city: Dublin
+  county: Leinster
+  street: Tara Street
+  building: 48 Emerald
+postGraduate: true
+enrollmentInClasses:
+  - bachelors:
+      - math
+      - biology
+      - engineering
+  - masters:
+      - dancing
+      - drawing
+      - karaoke
+professors:
+  - Mr. Brightside
+  - Dr. Pepper
+  - The Fugees
+additionalInfo:
+  hobbies:
+    - photography
+    - programming
+    - biking
+  misic: []
+  food: asian
